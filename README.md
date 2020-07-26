@@ -4,7 +4,7 @@ I needed to batch censor 1600 images with the exact same dimensions with the exa
 ## Pre-requisite:
 First off, you need python installed. You've likely used anaconda or you've installed it directly.
 
-If you have anaconda installed, you likely have Pillow installed or can easily install it by searching for it. Otherwise, use the command 'pip install Pillow' to be install it.
+If you have anaconda installed, you probably already have Pillow installed or can easily install it by using its Anaconda's package manager. If your python isn't from Anaconda, use the command 'pip install Pillow' to install it.
 
 ## How to run it?
 
