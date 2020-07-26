@@ -19,3 +19,8 @@ For Windows:
 C:\python27\python.exe {path to batch_censor.py}
 For Mac:
 python {path to batch_censor.py}
+
+## Sample Pictures
+
+They're from NASA. As such there's no copyright :)
+Src: https://www.nasa.gov/multimedia/imagegallery/index.html
